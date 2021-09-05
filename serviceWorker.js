@@ -1,3 +1,4 @@
+// serviceWorker
 // service workers only have permission to access files
 // in the same directory and sub - directories.
 
